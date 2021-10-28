@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Pokédex de testes com a React Testing Library!
 
-![Captura de tela de 2021-10-28 15-05-53](https://user-images.githubusercontent.com/78225894/139311189-a82bacf3-ae7b-4080-aa4f-a3a5a4bdcdc0.png)
+![pokedex-testes](https://user-images.githubusercontent.com/78225894/139311291-068dba9c-d0f3-4374-88bd-1ff10e5982b1.jpg)
 
 https://user-images.githubusercontent.com/78225894/139310816-072b33da-8495-488e-99e2-f4cb769ef126.mp4
 
