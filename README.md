@@ -202,3 +202,7 @@ Este repositório já contém uma aplicação React criada e configurada. Após 
   **O que será verificado:**
 
   - Será avaliado se o arquivo teste `PokemonDetails.test.js` contemplam 100% dos casos de uso criados pelo Stryker.
+
+--
+
+* Projeto proposto pela <a href="https://www.betrybe.com/">Trybe</a> e requisitos desenvolvidos por <a href="https://www.linkedin.com/in/luisffg/">Luis Fernando</a>
